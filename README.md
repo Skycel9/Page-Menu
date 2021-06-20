@@ -18,4 +18,4 @@ If you have a problem or question you can contact us :
 
 - [x] [Join our Server](https://discod.gg/WpAvFrjxkz "Support")
 - [x] [Contact Skycel](https://dsc.bio/Skycel "Skycel's Profile") (with discord)
-- [ ] Send a postcard
+- [ ] Send a postcard 
