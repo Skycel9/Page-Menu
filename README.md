@@ -1,4 +1,5 @@
 # ⚠️ This repository is deprecated ! ⚠️
+This repository is deprecated, you can use them with library discord.JS V12 but with version 13 is not recommend
 
 # Page-Menu
 ### 3 functions for help to make a simple Page Menu for Discord's Bot with buttons.
