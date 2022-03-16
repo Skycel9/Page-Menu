@@ -1,3 +1,5 @@
+# ⚠️ This repository is deprecated ! ⚠️
+
 # Page-Menu
 ### 3 functions for help to make a simple Page Menu for Discord's Bot with buttons.
 
